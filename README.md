@@ -15,8 +15,8 @@ Furthermore it is also possible to send direct feedback via [E-Mail](mailto:bitc
 [Carsten Otto](mailto:bitcoin@c-otto.de) received a PhD in computer science and is employed as an Agile Software Engineer.
 Some of his main interests are the technical details of Bitcoin.
 
-### Proof of Work and Proof of Stake
-#### [Proof of Activity: Extending Bitcoin's Proof of Work via Proof of Stake](https://eprint.iacr.org/2014/452.pdf) (Iddo Bentov, Charles Lee, Alex Mizrahi, Meni Rosenfeld) 2014
+## Proof of Work and Proof of Stake
+### [Proof of Activity: Extending Bitcoin's Proof of Work via Proof of Stake](https://eprint.iacr.org/2014/452.pdf) (Iddo Bentov, Charles Lee, Alex Mizrahi, Meni Rosenfeld) 2014
 
 - Suggests Proof of Activity (PoA) to secure network with the combined efforts of stakeholders and miners
 - Focus on long term sustainability, PoW faces problems with insufficient block rewards, discusses Tragedy of the Commons in a PoW system where miners are subsidized mostly by fees
