@@ -10,7 +10,7 @@ Furthermore it is also possible to send direct feedback via [E-Mail](mailto:bitc
 ## Topics
 - TBD
 
-## Autoren
+## Authors
 ### Dr. Carsten Otto
 [Carsten Otto](mailto:bitcoin@c-otto.de) received a PhD in computer science and is employed as an Agile Software Engineer.
 Some of his main interests are the technical details of Bitcoin.
