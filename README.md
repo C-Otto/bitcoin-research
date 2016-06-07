@@ -9,6 +9,7 @@ Furthermore it is also possible to send direct feedback via [E-Mail](mailto:bitc
 
 ## Topics
 - [Proof of Work and Proof of Stake](#proof-of-work-and-proof-of-stake)
+ - Proof of Activity: Extending Bitcoin's Proof of Work via Proof of Stake
 
 ## Authors
 ### Dr. Carsten Otto
